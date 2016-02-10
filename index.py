@@ -3,6 +3,7 @@
 
 # enable debugging
 import cgitb
+
 cgitb.enable()
 from core.SwayzeBaby import SwayzeBaby
 print "Content-Type: text/html\n\n"
