@@ -31,7 +31,7 @@ Writing your own corner.py and throwing these files on your webserver should mak
 
 
 # Data Collection
-##Dependencies
+## Dependencies
 * Python 2.7
 * [PyMySQL](https://github.com/PyMySQL/PyMySQL)
 * [Bing Search API key](http://datamarket.azure.com/dataset/bing/search)
