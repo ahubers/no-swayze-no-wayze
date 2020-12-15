@@ -60,7 +60,7 @@ class Key:
 As described above, SwayzeBaby.py is a multi-purpose class for all things Swayze. The remaining two files each populate our tables "swayze"  and "colors". The former contains a url and title tag for each image, while the latter operates on url's from "colors" to run k-means clustering on each image and insert into the DB. Assuming that you have the correct db specifications + a Bing API key, you can run both by uncommenting the imports in SwayzeBaby.py (which have been commented to allow the web page to run).
 
 # Analysis
-##Dependencies
+## Dependencies
 * [R](http://www.r-project.org/)
 * [Shiny](http://shiny.rstudio.com/)
 * [scatterPlot3d](http://cran.r-project.org/web/packages/scatterplot3d/index.html)

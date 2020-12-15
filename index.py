@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: UTF-8 -*-
 
 # enable debugging
 import cgitb
@@ -58,7 +57,7 @@ print "</div>"
 
 print "<div class='mainText'>"
 #This stuff was only really for handing the project in.
-print """<p>Brian Hixson-Simeral, Alex Hubers, Kent Schlorf, Dawit Tsigie</p>
+print """<p>Brian Hixson-Simeral, Alex Hubers, Kat Schlorf, Dawit Tsigie</p>
 <p>Cornell College. Mount Vernon, IA.</p>
 <ul>"""
 #<li class='download, orange'><a href='fullWriteUp.pdf'>full write-up</a> </li>
